@@ -2,6 +2,8 @@
 
 I hate CSV/Excel sheets. I don't like 'em. Period. I feel a part of me dies every time I have to open one. But life is cruel and sometimes you have to open and go over them. This simple React app tries to mitigate the pains of reading a CSV file. 
 
+### Live App: https://azmainamin.github.io/csv-pretty-view/
+ 
 ## What does this app buy you?
 
 * No more of this:<br/>
