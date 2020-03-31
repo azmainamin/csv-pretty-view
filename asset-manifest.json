@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/csv-pretty-view/static/css/main.20a564d2.chunk.css",
+    "main.js": "/csv-pretty-view/static/js/main.999748b2.chunk.js",
+    "main.js.map": "/csv-pretty-view/static/js/main.999748b2.chunk.js.map",
+    "runtime-main.js": "/csv-pretty-view/static/js/runtime-main.16e7f094.js",
+    "runtime-main.js.map": "/csv-pretty-view/static/js/runtime-main.16e7f094.js.map",
+    "static/js/2.d7f64014.chunk.js": "/csv-pretty-view/static/js/2.d7f64014.chunk.js",
+    "static/js/2.d7f64014.chunk.js.map": "/csv-pretty-view/static/js/2.d7f64014.chunk.js.map",
+    "index.html": "/csv-pretty-view/index.html",
+    "precache-manifest.f281ca15c224f4dfda2edcf550e0afd9.js": "/csv-pretty-view/precache-manifest.f281ca15c224f4dfda2edcf550e0afd9.js",
+    "service-worker.js": "/csv-pretty-view/service-worker.js",
+    "static/css/main.20a564d2.chunk.css.map": "/csv-pretty-view/static/css/main.20a564d2.chunk.css.map",
+    "static/js/2.d7f64014.chunk.js.LICENSE.txt": "/csv-pretty-view/static/js/2.d7f64014.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/csv-pretty-view/static/media/app_center_image.d23c834f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16e7f094.js",
+    "static/js/2.d7f64014.chunk.js",
+    "static/css/main.20a564d2.chunk.css",
+    "static/js/main.999748b2.chunk.js"
+  ]
+}
