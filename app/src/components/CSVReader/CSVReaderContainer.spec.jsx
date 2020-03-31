@@ -32,7 +32,7 @@ test("renders CSVReaderView so that we can upload csv file", () => {
   expect(renderedInstance.find(CSVReaderView).length).toBe(1);
 });
 
-test("renders CSVReaderView and Datatable when reviews are loaded from csv", () => {
+test("renders CSVReaderView and Datatable when data is loaded from csv", () => {
   const renderedInstance = render();
   renderedInstance.setState({ data: [{"col1":"data1"}], loading: false });
 
