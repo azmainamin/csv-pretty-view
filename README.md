@@ -4,7 +4,7 @@ I hate CSV/Excel sheets. I don't like 'em. Period. I feel a part of me dies ever
 
 ## What does this app buy you?
 
-* No more of this:
+* No more of this:<br/>
  ![ugly_csv](ugly_csv.PNG)
 
 * Sort the data
